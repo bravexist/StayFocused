@@ -55,7 +55,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
             rel="noopener noreferrer"
             className={`text-sm ${theme.colors.textSecondary} hover:${theme.colors.textPrimary}`}
           >
-            鲁ICP备2022004448号-1
+            萌ICP备20250001号
           </a>
         </div>
       </footer>
